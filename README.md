@@ -5,9 +5,7 @@ A **minimal game theory toolkit** to build, simulate, and analyze payoff matrice
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)  
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
 ![Last Commit](https://img.shields.io/github/last-commit/Divyansh1101/Game-Strategy-Simulator?style=flat-square)  
-![Build](https://img.shields.io/badge/Build-Passing-brightgreen)  
-
----
+___
 
 ## ✨ Features  
 
@@ -105,7 +103,7 @@ plt.show()
 - **Heatmap Visualization:**  
   Both players’ payoffs shown in intuitive color-coded grids.  
 
-*(Insert screenshots or generated plots here for better presentation!)*  
+ 
 
 ---
 
